@@ -1,0 +1,2 @@
+This file is simply a test file, for remote repository setup and configuration.
+Hello!
